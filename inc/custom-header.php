@@ -20,8 +20,8 @@ function bottle_custom_header_setup() {
 	add_theme_support( 'custom-header', apply_filters( 'bottle_custom_header_args', array(
 		'default-image'          => '',
 		'default-text-color'     => '000000',
-		'width'                  => 1600,
-		'height'                 => 700,
+		'width'                  => 2000,
+		'height'                 => 1200,
 		'flex-height'            => true,
 		'wp-head-callback'       => 'bottle_header_style',
 	) ) );
