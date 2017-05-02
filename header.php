@@ -51,9 +51,8 @@
                 </aside><!-- #secondary -->
         <?php } ?>
 		</div>
-		
 		</header><!-- #masthead -->
-</div>
+
 	
 
 	<div id="content" class="site-content">
