@@ -50,7 +50,7 @@
 				<?php the_widget( 'WP_Widget_Text', 'text=<div class="home-headline">Discover innovative theme</div><div class="home-tagline">Bottle is a lightweight and fast theme.</div><div class="home-tagline">Quick and easy website creation.</div><br><button class="button-green">Learn more</button>' ); ?>
                 </aside><!-- #secondary -->
         <?php } ?>
-		</div>
+		</div><!-- .header-container -->
 		</header><!-- #masthead -->
 
 	
